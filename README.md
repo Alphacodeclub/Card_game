@@ -10,5 +10,5 @@ Simple card game with Swift Programming Language
 
 ![Screenshot](Layout.png)
   
-##Special thanks to chris
+##Special thanks to Chris
   
