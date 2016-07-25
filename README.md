@@ -7,7 +7,8 @@ Simple card game with Swift Programming Language
   
   Xcode
 
+
+![Screenshot](Layout.png)
   
-  
-  
+##Special thanks to chris
   
